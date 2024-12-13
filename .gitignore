@@ -1,10 +1,5 @@
 # Python
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.db
-*.sqlite3
 
 # Virtual Environment
 venv/
@@ -29,7 +24,6 @@ htmlcov/
 *.cover
 
 # Migrations
-migrations/
 node_modules/
 flask_session/
 
