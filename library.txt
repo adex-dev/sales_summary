@@ -1,0 +1,15 @@
+Flask
+requests
+DateTime
+aiomysql
+gunicorn
+htmlmin
+python-dotenv
+html-minifier
+Flask-Session
+cachelib==0.13.0
+msgspec==0.18.6
+mysql-connector-python
+pdfkit
+openpyxl
+pandas
